@@ -1,7 +1,8 @@
-## USELESS ANGRY MACHINE
+## USELESS EMOTIONAL MACHINE
 
-Minimal Arduino Useless Machine with Attitude.
+Minimal Arduino Useless Machine with only one emotion - anger!
 Based on `Useless_Attitude.ino` sketch of Brandon Clark.
+
 Original [code](https://github.com/braclark/Arduino/blob/master/Useless_Attitude.ino), [video](https://www.youtube.com/watch?v=nbF8ANHkJv4), [parts](https://www.thingiverse.com/thing:4561617/files)
 
 ## About
